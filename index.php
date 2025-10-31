@@ -84,7 +84,6 @@ class PeopleList implements Iterator
     }
 }
 
-т
 $person = new Person('Ivan', 'ivan123', 'pass321');
 
 $serialized = serialize($person);
